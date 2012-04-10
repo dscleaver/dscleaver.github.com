@@ -2,21 +2,21 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "project.screen"]
 auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Dave Cleaver's Blog
-tagline: Sadly missing a cool tagline
+title : Leave it to Me Programming
+tagline: Growing and learning all the time 
 author :
   name : Dave Cleaver
-  email : dscleaver@github.com
+  email : dscleaver@gmail.com
   github : dscleaver
   twitter : dscleaver
-  #feedburner : feedname
+  feedburner : github/HyCQ
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

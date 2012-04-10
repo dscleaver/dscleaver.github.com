@@ -1,0 +1,7 @@
+source ~/.screenrc
+
+screen jekyll --auto --server
+title "run"
+
+screen vim index.md
+title "edit"

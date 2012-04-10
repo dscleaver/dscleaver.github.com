@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Leave it to Me Programming
+tagline: Growing and learning all the time
 ---
 {% include JB/setup %}
 

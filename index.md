@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Leave it to Me Programming
-tagline: Growing and learning all the time
+title: Leave It To Me Programming
+tagline: Home
 ---
 {% include JB/setup %}
 
-## Under Construction
-This is attempt #2 at getting a blog set up for myself. Looks like Jekyll bootstrap will remove all of the css fiddling that I was doing before.
-   
-## Posts
+## Welcome
+Welcome to Leave It To Me Programming a place for me to write about the topics that interest me. For my day job I write scalable web services, and in my free time I learn new programming languages and how they are built. I am also a dedicated husband, father, and martial artist.
+ 
+## Latest Posts
 
 <ul class="posts">
   {% for post in site.posts %}
